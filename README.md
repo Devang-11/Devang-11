@@ -1,12 +1,8 @@
-<style>
-    p{
-        font-size: 25px;
-    }
-</style>
 
 
-<h1>Hi 👋, I'm Devang </h1>
-<p>A Computer Science undergraduate interested in Web Development and Problem Solving
+
+<h1 >Hi 👋, I'm Devang </h1>
+<p font-size:25px;>A Computer Science undergraduate interested in Web Development and Problem Solving
 coding</p>
 
 💫 About Me:
