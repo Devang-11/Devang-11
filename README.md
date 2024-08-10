@@ -2,7 +2,7 @@
 
 
 <h1 >Hi 👋, I'm Devang </h1>
-<p font-size:25px;>A Computer Science undergraduate interested in Web Development and Problem Solving
+<p style ="font-size: 25px;">A Computer Science undergraduate interested in Web Development and Problem Solving
 coding</p>
 
 💫 About Me:
