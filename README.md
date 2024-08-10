@@ -1,9 +1,6 @@
-
-
-
-<h1 >Hi 👋, I'm Devang </h1>
-<p style ="font-size: 25px;">A Computer Science undergraduate interested in Web Development and Problem Solving
-coding</p>
+<h1>Hi 👋, I'm Devang </h1>
+<ps tyle="font-size: 25px;">A Computer Science undergraduate interested in Web Development and Problem Solving
+coding</ps>
 
 💫 About Me:
 🔭 I’m currently exploring CPP and Mern stack Also improving my problem solving skills by practicing algorithmic problems on various coding platform.
