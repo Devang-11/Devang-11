@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 - 🔭 I’m currently exploring C++, Java and MERN stack, and improving my problem-solving skills by practicing algorithmic problems on various coding platforms.
-- 👯 I’m looking to collaborate on web development projects.
+- 👬 I’m looking to collaborate on web development projects.
 - 📫 How to reach me: [devbest001@gmail.com](mailto:devbest001@gmail.com)
 
 ## 📊 TECH STACKS
